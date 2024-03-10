@@ -1,5 +1,7 @@
 # Instance Segmentation for Wheat heads
 
+![image](https://github.com/nooralsmadi/WheatSeg/assets/71272030/82c61976-b5a8-4670-984d-49316ce26dff)
+
 # Annotation Process Guide
 
 This README outlines the detailed steps of our annotation process, used to accurately capture wheat head data. The process combines manual efforts with sophisticated automation techniques to ensure high-quality data for model training.
