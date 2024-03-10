@@ -43,6 +43,7 @@ Converting a polygon to a bounding box is like drawing the smallest possible rec
 ![image](https://github.com/nooralsmadi/WheatSeg/assets/71272030/b5b48ed8-7cbf-4a90-8831-361a10098eff)
 
 From BoundinBox to poly :
+
 ![image](https://github.com/nooralsmadi/WheatSeg/assets/71272030/6deb81b0-beb8-45b1-80fd-d0905729db12)
 
 ![image](https://github.com/nooralsmadi/WheatSeg/assets/71272030/c3deaa7d-b0f7-4a39-a0a4-b609d11981de)
@@ -58,6 +59,7 @@ This section describes the models utilized in our annotation and processing pipe
 
 - **Type**: Semantic Segmentation
 - **Description**: YOLOv8-seg extends the original YOLO (You Only Look Once) architecture to semantic segmentation, aiming to classify each pixel of the image into a specific category. This model is particularly effective for tasks where understanding the context and details of each image part is crucial.
+  
 ![image](https://github.com/nooralsmadi/WheatSeg/assets/71272030/2acc2771-3521-4922-b5f4-ec9f9548201f)
 
 ![image](https://github.com/nooralsmadi/WheatSeg/assets/71272030/785889b1-cd93-4389-997a-9d18e335ba03)
